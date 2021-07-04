@@ -32,3 +32,27 @@ section{
     background-image: url(my-picture/top-banner.png);
     background-repeat: no-repeat;
 }
+.half{
+    width: 50%;
+    font-size: 18px;
+    
+}
+.dream-big{
+    display: flex;
+    margin: 150px;
+}
+.pic{
+    width: 80%;
+}
+.download-buttom{
+    padding:10px 40px;
+    background-image: linear-gradient(orange, rgb(238, 10, 10));
+    text-decoration: none;
+    border-radius: 5px;
+
+}
+.dream-big{
+    background-image: url(my-picture/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
